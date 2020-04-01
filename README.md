@@ -12,6 +12,6 @@ The output shows the creation the users created in progresive bar.
 - Celery
 - Redis
 
-
+**Output**
 
 ![output](/webiste/our_static/dbar.png)
