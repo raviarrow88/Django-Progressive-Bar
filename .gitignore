@@ -1,0 +1,11 @@
+*.log
+*.pyc
+.idea/
+uni-venv/
+env/
+venv/
+**/migrations/00*
+*.log
+*.pyc
+.idea/
+bar-env/
