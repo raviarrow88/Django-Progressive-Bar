@@ -11,3 +11,7 @@ The output shows the creation the users created in progresive bar.
 - Django
 - Celery
 - Redis
+
+
+
+![output](/webiste/our_static/dbar.png)
